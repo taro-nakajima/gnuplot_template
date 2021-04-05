@@ -11,8 +11,8 @@ set style line 11 lt 1 lc "#000000" lw 2 pt 65 ps 1.5
 set size ratio 0.7  # ratio r = height/width
 
 set xlabel 'Omega (deg)' font "Helvetica,22"
-#set encoding iso_8859_1
-#set xlabel 'Q ({/Helvetica \305}^-^1)' font "Helvetica,22"
+#set encoding iso_8859_1
+#set xlabel 'Q ({/Helvetica \305}^-^1)' font "Helvetica,22"    # (A^-1)
 set ylabel 'Normalized intensity (arb units)' font "Helvetica,22"
 
 #set xrange[0.1:0.5]
